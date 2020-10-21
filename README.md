@@ -1,2 +1,2 @@
 # PitchPerfect
-First project iOS
+First iOS project
